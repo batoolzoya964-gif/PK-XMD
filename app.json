@@ -5,7 +5,7 @@
   "keywords": ["PK-XMD"],
   "success_url": "/",
   "stack": "container",
-  "env": {
+  "env": {pk~TsAC1C4A#V_6-rPQae4kzEnKSLSZ2m9vJW1sbN1LMTwFV3wV2_AY
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
